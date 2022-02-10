@@ -1,16 +1,20 @@
-# pomodoro
+# Pomodoro
+The secret to effective time management is...thinking in tomatoes rather than hours? It may seem silly at first, but millions of people swear by the life-changing power to the Pomodoro Technique. (Pomodoro is Italian for tomato. 🍅)
 
-A new Flutter project.
+This popular time management method asks you to alternate pomodoros — focused work sessions — with frequent short breaks to promote sustained concentration and stave off mental fatigue.
 
-## Getting Started
+Try the Pomodoro Technique if you...
 
-This project is a starting point for a Flutter application.
+<ul>
+<li>Find little distractions often derail the whole workday</li>
 
-A few resources to get you started if this is your first Flutter project:
+<li>Consistently work past the point of optimal productivity</li>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<li>Have lots of open-ended work that could take unlimited amounts of time (e.g., studying for an exam, research for a blog post, etc.)</li>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<li>Are overly optimistic when it comes to how much you can get done in a day (aren't we all 🙃)</li>
+
+<li>Enjoy gamified goal-setting
+
+
+</ul>
